@@ -34,8 +34,9 @@
 
 <div align="center">
 
-Preview online não informado no repositório.
+Preview visual do projeto:
 
+<kbd><img src=".github/assets/project-cover.png" alt="Preview do projeto"/></kbd>
 
 </div>
   
@@ -45,9 +46,7 @@ Preview online não informado no repositório.
 
 <div align="center">
 
-Minha versão de um desafio Frontend Mentor, desenvolvida para praticar HTML, CSS, responsividade e boas práticas de layout.
-
-> Observação: este repositório é um fork mantido para estudo, referência técnica ou evolução experimental.
+Aplicação de lista de tarefas para praticar CRUD no frontend, manipulação de estado, eventos de interface e persistência simples.
 
 ---
 
@@ -91,7 +90,9 @@ Minha versão de um desafio Frontend Mentor, desenvolvida para praticar HTML, CS
 
 |                     :page_facing_up:                      |
 | :-------------------------------------------------------: |
-| Cadastrar, listar, atualizar e remover tarefas |
+| Cadastrar, listar, marcar e remover tarefas |
+| Praticar interação de usuário com JavaScript |
+| Organizar layout responsivo para produtividade |
 
 </div>
 
