@@ -114,14 +114,11 @@ Abra o arquivo index.html no navegador
 | :---------------: |
 | `portfolio` |
 | `joaovitorsw` |
-| `fork` |
-| `frontend-mentor` |
-| `frontend` |
-| `responsive-design` |
-| `html` |
-| `css` |
 | `todo-app` |
 | `crud` |
+| `frontend` |
+| `html` |
+| `css` |
 | `javascript` |
 
 </div>
